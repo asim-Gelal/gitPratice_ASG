@@ -6,7 +6,7 @@ from datetime import datetime, timedelta
 import secrets
 
 app = FastAPI(
-    title="Login/Logout API",
+    title="Login/Logout API"
     description="A simple API for user login and logout using FastAPI.",
     version="1.0.0"
 )
